@@ -1,13 +1,6 @@
 # Prometheus-Grafana
 
-Both Prometheus and Grafana have very good documentation 
-
-[Prometheus Docs]("https://prometheus.io/docs/introduction/overview/")
-
-[Grafana Docs]("https://grafana.com/docs/grafana/latest/")
-
 ![prometheusgrafana](https://github.com/SiddharthUchil/Prometheus-Grafana/assets/36127139/e0c6b27f-783c-4c09-8ad2-097ac86df3d3)
-
 
 ## Pre-Requisite
 
